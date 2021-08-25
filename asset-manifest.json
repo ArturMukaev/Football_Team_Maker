@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Football_Team_Maker/static/css/main.3ca13ae6.chunk.css",
+    "main.js": "/Football_Team_Maker/static/js/main.5a549d5a.chunk.js",
+    "main.js.map": "/Football_Team_Maker/static/js/main.5a549d5a.chunk.js.map",
+    "runtime-main.js": "/Football_Team_Maker/static/js/runtime-main.8b074af4.js",
+    "runtime-main.js.map": "/Football_Team_Maker/static/js/runtime-main.8b074af4.js.map",
+    "static/css/2.455652b6.chunk.css": "/Football_Team_Maker/static/css/2.455652b6.chunk.css",
+    "static/js/2.22a4ab7d.chunk.js": "/Football_Team_Maker/static/js/2.22a4ab7d.chunk.js",
+    "static/js/2.22a4ab7d.chunk.js.map": "/Football_Team_Maker/static/js/2.22a4ab7d.chunk.js.map",
+    "static/js/3.cf764487.chunk.js": "/Football_Team_Maker/static/js/3.cf764487.chunk.js",
+    "static/js/3.cf764487.chunk.js.map": "/Football_Team_Maker/static/js/3.cf764487.chunk.js.map",
+    "index.html": "/Football_Team_Maker/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/Football_Team_Maker/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.3ca13ae6.chunk.css.map": "/Football_Team_Maker/static/css/main.3ca13ae6.chunk.css.map",
+    "static/js/2.22a4ab7d.chunk.js.LICENSE.txt": "/Football_Team_Maker/static/js/2.22a4ab7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b074af4.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.22a4ab7d.chunk.js",
+    "static/css/main.3ca13ae6.chunk.css",
+    "static/js/main.5a549d5a.chunk.js"
+  ]
+}
