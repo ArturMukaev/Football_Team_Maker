@@ -1,1 +1,2 @@
 export const CREATE_PLAYER = "CREATE_PLAYER"
+export const CHANGE_NUMBER = "CHANGE_NUMBER"
