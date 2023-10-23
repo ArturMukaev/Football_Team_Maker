@@ -2,47 +2,75 @@
 
 
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
 /*----------------------------------------------------------------------------------*/
 
-.line{
-  display: inline-block;
-  margin: 20px 30px;
+.line {
+    display: inline-block;
+    margin: 20px 30px;
 }
-h1{
-  text-align: center;
+
+h1 {
+    text-align: center;
 }
-a{
-  text-decoration: none;
-  color: white;
+
+a {
+    text-decoration: none;
+    color: white;
 }
-a:hover{
-  color: gold;
+
+a:hover {
+    color: gold;
 }
-td,th{
-  border: 2px solid black;
+
+td, th {
+    border: 2px solid black;
 }
-th{
-  background-color: lavenderblush;
+
+th {
+    background-color: lavenderblush;
 }
-.team1{
-  background-color: lightgreen;
+
+.team1 {
+    background-color: lightgreen;
 }
-.team2{
-  background-color: lightpink;
+
+.team2 {
+    background-color: lightpink;
 }
-.floating{
-  float: left;
+
+.allContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 5px;
+    margin: 30px auto;
+}
+
+.fields {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.field {
+    margin: 30px auto 0 auto;
+}
+
+@media (min-width: 1200px) {
+    .allContainer {
+        width: 40%;
+    }
 }

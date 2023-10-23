@@ -5,7 +5,7 @@ import Field from "../components/Field";
 export const MainPage = () => {
     return (
         <>
-            <div className="floating">
+            <div>
                 <AddPlayer/>
             </div>
             <Field/>
