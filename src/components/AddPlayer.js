@@ -101,6 +101,21 @@ const initialPlayersArray = [
         skill: 3,
         key: 15,
     },
+    {
+        name: "Андрей Г.",
+        skill: 3,
+        key: 16,
+    },
+    {
+        name: "Яков",
+        skill: 1,
+        key: 17,
+    },
+    {
+        name: "Гирш Старший",
+        skill: 1,
+        key: 18,
+    },
 ];
 
 
@@ -170,6 +185,7 @@ const AddPlayer = (props) => {
                 name: "",
                 team: "",
                 position: "",
+                skill: 1,
             })
             check1.current.checked = false;
             check2.current.checked = false;
